@@ -1,21 +1,4 @@
 
-Conversation opened. 1 unread message.
-
-Skip to content
-Using Gmail with screen readers
-
-2 of 208
-converting
-Inbox
-x
-
-AVIRAL BHARDWAJ
-Attachments
-2:08 PM (3 hours ago)
-to me
-
-
-Attachments area
 
 //convert digit to numbers
 #include<stdio.h>
@@ -81,5 +64,4 @@ int main()
 	_getch();
 	return 0;
 }
-converting digit into number.c
-Displaying converting digit into number.c.
+
